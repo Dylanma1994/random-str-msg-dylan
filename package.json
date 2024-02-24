@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-dylan",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "generate random string msg for dylan",
   "main": "index.js",
   "scripts": {
