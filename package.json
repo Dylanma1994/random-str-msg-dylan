@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-dylan",
+  "version": "1.0.0",
+  "description": "generate random string msg for dylan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylanma1994/random-str-msg-dylan.git"
+  },
+  "keywords": [
+    "random",
+    "message",
+    "string"
+  ],
+  "author": "dylan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dylanma1994/random-str-msg-dylan/issues"
+  },
+  "homepage": "https://github.com/Dylanma1994/random-str-msg-dylan#readme",
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
