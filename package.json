@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Dylanma1994/random-str-msg-dylan#readme",
   "dependencies": {
+    "auto-msg-discord": "^1.1.0",
     "g": "^2.0.1"
   }
 }
